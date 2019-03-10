@@ -1,3 +1,4 @@
+google_maps_api.*
 *.iml
 .gradle
 /local.properties
